@@ -1,0 +1,10 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "students": "./graph.py:graph"
+  },
+  "python_version": "3.11",
+  "dependencies": [
+    "."
+  ]
+}
